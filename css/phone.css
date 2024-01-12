@@ -1,0 +1,11 @@
+.container {
+    width: 280px;
+    height: 600px;
+}
+.container .heading {
+    width: 250px;
+    height: 100px; 
+}
+.container h1 { 
+    font-size: xx-large; 
+}

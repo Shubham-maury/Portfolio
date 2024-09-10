@@ -2,14 +2,16 @@
     text-align: center;
 }
 .container {
-    width: 600px;
+    width: 750px;
     height: 600px;
-    /* border: 2px solid black; */
+    border: 2px solid black;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     margin: auto;
+    border-radius: 50px;
+    border-width: thick;
 }
 .container .heading{
     width: 600px;
@@ -17,6 +19,7 @@
     border: 2px solid #4a877b;
     background-color: silver;
     border-radius: 12px 44px;
+    border-width: thick;
 }
 .container h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
